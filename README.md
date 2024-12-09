@@ -1,0 +1,1 @@
+An e-commerce platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed for seamless shopping experiences. The project utilizes Redux for efficient state management, including managing cart, orders, and user-related operations.
